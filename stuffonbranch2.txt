@@ -1,4 +1,4 @@
-created a new branch locally 
-a new txt file created in the branch locally 
-now to upload this file and branch online 
-and finally merge the branch and master
+created a new branch locally (adding code $ git branch <branch name>) (to change bash from main to branch repo us "$ git checkout <branch name>)
+a new txt file created in the branch locally (once bash is on branch repo added file by using "echo" code or "notepad" code for adding .txt file)
+now to upload this file and branch online (uploaded the new locally made files and branch to remote repo use "git add" "git commit -m "comment"" & "git push")
+and finally merge the branch and master (to merge first switch to main repo "git checkout main" then to merge branch use "git merge <branch name>"
