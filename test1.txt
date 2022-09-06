@@ -1,0 +1,7 @@
+test1 - how to open a text file from bash cmd
+
+write - notepad "name you want to give".txt
+
+you can use the "notepad" cmd to open an existing file in notepad as well.
+
+write notepad "name of existing file"."extension"
