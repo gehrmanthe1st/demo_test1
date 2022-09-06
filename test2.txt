@@ -1,0 +1,3 @@
+This is a remote file created in remote repository
+We are going to copy it into our local repository
+for this we will have to use a -- git pull -- command
