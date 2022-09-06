@@ -1,4 +1,4 @@
-test1 - how to open a text file from bash cmd
+test1 - how to open and create(you can save) a text file from bash cmd
 
 write - notepad "name you want to give".txt
 
